@@ -1,0 +1,33 @@
+.heading
+{
+    font-size : 23px;
+    width: 100%;
+    margin: px;
+    box-shadow:5px 5px 5px black;
+    color: aqua;
+    background-color: black;
+}
+
+.note
+{
+    font-size: 15px;
+    color: aqua;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: aqua;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
+
+.canvas
+{
+    box-shadow: 5px 5px 5px black;
+    padding: 5px;
+    margin: px;
+}
